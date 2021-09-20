@@ -1,0 +1,25 @@
+{
+  "name": "sergiosinlimites-curso-fundamentos-node",
+  "version": "1.0.0",
+  "description": "Esto viene del curso de Fundamentos de Node.js impartido en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiosinlimites/curso-fundamentos-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "backend"
+  ],
+  "author": "Sergio Andrés Bolaños Penagos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiosinlimites/curso-fundamentos-nodejs/issues"
+  },
+  "homepage": "https://github.com/sergiosinlimites/curso-fundamentos-nodejs#readme"
+}

@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/sergiosinlimites/curso-fundamentos-nodejs/issues"
   },
-  "homepage": "https://github.com/sergiosinlimites/curso-fundamentos-nodejs#readme"
+  "homepage": "https://github.com/sergiosinlimites/curso-fundamentos-nodejs#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
 }

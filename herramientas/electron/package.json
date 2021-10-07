@@ -1,0 +1,17 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-wsl": "npm install && npm uninstall electron && export npm_config_platform=win32 && npm install electron && unset npm_config_platform && electron ."
+  },
+  "keywords": [],
+  "author": "Sergio Andrés Bolaños Penagos",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^15.1.1"
+  }
+}

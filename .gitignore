@@ -1,3 +1,4 @@
 node_modules/
 .env.development
-* .webp
+paquetes/utiles/*.webp
+paquetes/utiles/*.png
